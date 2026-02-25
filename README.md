@@ -18,11 +18,20 @@ Let’s connect!
 
 ## 🌐 Socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/its_tuhin_001)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuhin-biswas-453991236/)  
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/TuhinBiswa95095)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:biswastuhin084@gmail.com)
-
+<p align="left">
+  <a href="https://www.instagram.com/its_tuhin_001">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/tuhin-biswas-453991236/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://x.com/TuhinBiswa95095">
+    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white"/>
+  </a>
+  <a href="mailto:biswastuhin084@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
+  </a>
+</p>
 ---
 
 ## 💻 Tech Stack:
