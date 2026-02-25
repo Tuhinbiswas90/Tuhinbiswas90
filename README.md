@@ -1,17 +1,11 @@
 ### 💫 About Me:
 
 I’m a final-year B.Tech Computer Science & Engineering student at Sister Nivedita University (Techno India Group) with a strong passion for Full-Stack Development and AI-powered applications.
-
 Full-Stack MERN Developer with hands-on experience in building scalable web applications using React, Node.js, Express.js, and MongoDB.
-
 Built real-world projects including an AI Virtual Assistant using Gemini AI API and a Smart Robotic Tourist Guide System using IoT and Web Technologies.
-
 Strong foundation in Data Structures & Algorithms and Core Computer Science concepts.
-
 Experienced in REST API development, authentication (JWT), database design, and deployment.
-
 Actively seeking opportunities to contribute as a Full-Stack Developer / Backend Developer / Software Engineer.
-
 Let’s connect!
 
 ## 🌐 Socials:
